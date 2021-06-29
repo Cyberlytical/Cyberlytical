@@ -6,7 +6,7 @@
 
 **About Me...**
 - 👨‍💻 Owner of [OSINT Against Fraud](https://twitter.com/osintstopfraud)
-- ⚡ Moderator @ [Scammer.info](https://scammer.info) & [Bhenchod.io](https://bhenchod.io)
+- ⚡ Moderator @ [Scammer.info](https://scammer.info)
 - 📚 Studying for a BSc in Cyber Security
 - ✨ Aiming for the CCNA
 
